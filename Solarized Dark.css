@@ -1,0 +1,68 @@
+body {
+	color: #EEE8D5 !important;
+}
+
+body {
+	background-image: url("none") !important;
+	background-color: #002B36 !important;
+}
+
+a:link {
+	color: #268BD2;
+}
+
+.searchHighlight {
+	color: rgba( 203, 75, 22, 0.750 ) !important;
+}
+
+.envelope > .member:before {
+    color: rgba( 38, 139, 210, 0.50 ) !important;
+}
+
+.envelope > .member:after {
+    color: rgba( 38, 139, 210, 0.50 ) !important;
+}
+
+.envelope > .member.self:before {
+    color: rgba( 220, 50, 47, 0.50 ) !important;
+}
+
+.envelope > .member.self:after {
+    color: rgba( 220, 50, 47, 0.50 ) !important;
+}
+
+.envelope > .member.self {
+	color: #dc322f !important;
+}
+
+.envelope > .member {
+	color: #2075c7 !important;
+}
+
+.envelope.highlight {
+	color: #fcf4dc;
+	background-color: #073642 !important;
+}
+
+.timestamp {
+	color: rgba( 82, 103, 111, 0.50 ) !important;
+	float: right;
+	margin-right: 1ex;
+	margin-left: 1ex;
+}
+
+.action > .message {
+	color: #81908f;
+}
+
+.event {
+	color: #52676f;
+}
+
+.event > .member {
+	color: rgba( 38, 139, 210, 0.50 ) !important;
+}
+
+.event > .member.self {
+    color: rgba( 220, 50, 47, 0.50 ) !important;
+}
